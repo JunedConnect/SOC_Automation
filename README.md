@@ -12,9 +12,9 @@ Utilised Shuffle (Automation Workflow Platform) to:<br />
 
 <h2>Technology Used</h2>
 
-- <b>Wazuh</b> 
-- <b>Shuffle</b>
-- <b>TheHive</b>
+- <b>Wazuh (XDR and SIEM Platform)</b> 
+- <b>Shuffle (Automation Workflow Platform)</b>
+- <b>TheHive (Incident Response Platform)</b>
 - <b>ElasticSearch</b>
 - <b>Cassandra</b>
 - <b>VirusTotal</b>
