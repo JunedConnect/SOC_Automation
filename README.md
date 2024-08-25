@@ -21,6 +21,13 @@ Utilised Shuffle (Automation Workflow Platform) to:<br />
 - <b>API Integration</b>
 
 
+<h2>Diagram</h2>
+<br/>
+<img src="xxxxxxxxxx"/>
+<br />
+<br />
+
+
 <h2>Demo</h2>
 <br/>
 <img src="xxxxxxxxxx"/>
