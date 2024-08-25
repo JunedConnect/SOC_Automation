@@ -15,9 +15,9 @@ Utilised Shuffle (Automation Workflow Platform) to:<br />
 - <b>Wazuh (XDR and SIEM Platform)</b> 
 - <b>Shuffle (Automation Workflow Platform)</b>
 - <b>TheHive (Incident Response Platform)</b>
-- <b>ElasticSearch</b>
-- <b>Cassandra</b>
-- <b>VirusTotal</b>
+- <b>ElasticSearch (Search & Analytics Engine)</b>
+- <b>Cassandra (NoSQL database)</b>
+- <b>VirusTotal (Malware Database)</b>
 - <b>API Integration</b>
 
 
