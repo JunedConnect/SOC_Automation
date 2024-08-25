@@ -1,22 +1,27 @@
 <h1>SOC Automation</h1>
 
 <h2>Description</h2>
-Set up an SCCM/MECM Server to facilitate centralised system management and streamline software deployment across my home network. 3 other separate systems were set up:
-
-•DHCP/NAT Server to manage internet connectivity and IP addresses to all devices.<br />
-•Domain Controller Server to administer Active Directory, ensuring secure access to network resources.<br />
-•Windows 10 VM as a test system for software deployment
+• Set up Wazuh (XDR and SIEM Platform) to ingest Sysmon logs and detect malicious activity.<br />
+• Malicious activity triggered rule to push alerts, from Wazuh, to Shuffle via an API.<br />
 <br />
+Utilised Shuffle (Automation Workflow Platform) to:<br />
+• Enrich IoCs and perform VirusTotal hash-check on malware via APIs.<br />
+• Generate an alert on TheHive (Incident Response Platform).<br />
+• Email Alert to SOC analyst for incident response.<br />
 
 
 <h2>Technology Used</h2>
 
-- <b>Windows Server 2019</b> 
-- <b>SQL Server</b>
-- <b>System Centre Configuration Manager / Microsoft Endpoint Configuration Manager</b>
+- <b>Wazuh</b> 
+- <b>Shuffle</b>
+- <b>TheHive</b>
+- <b>ElasticSearch</b>
+- <b>Cassandra</b>
+- <b>VirusTotal</b>
+- <b>API Integration</b>
 
 
-<h2>Diagram:</h2>
+<h2>Demo</h2>
 <br/>
 <img src="xxxxxxxxxx"/>
 <br />
