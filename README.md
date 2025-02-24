@@ -1,5 +1,7 @@
 # SOC Automation
 
+<br>
+
 ## Description
 - Set up **Wazuh** (XDR and SIEM Platform) to ingest Sysmon logs and detect malicious activity.
 - Malicious activity triggered a rule to push alerts from **Wazuh** to **Shuffle** via an API.
